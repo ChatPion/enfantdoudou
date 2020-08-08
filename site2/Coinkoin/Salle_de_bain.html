@@ -1,0 +1,32 @@
+<html>
+<head>
+<META content=text/javascript http-equiv=Content-Script-Type>
+<META content=text/css http-equiv=Content-Style-Type>
+<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<SCRIPT language=JavaScript type=text/javascript 
+src="script/script1.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+i1 = new Image;
+i1.src = "Salle_de_bain.GIF";
+i2 = new Image;
+i2.src = "Salle_de_bain1.GIF";
+i3 = new Image;
+i3.src = "Salle_de_bain2.GIF"; 
+</SCRIPT>
+</head>
+<body>
+ <DIV 
+  style="BACKGROUND-IMAGE:url(Salle_de_bain.GIF); background-repeat:no-repeat" 
+      id=area_image ><img alt="" 
+      src="transparent.png" 
+      usemap=#Map></DIV>
+<map name="Map">
+<area shape="poly" coords="154,159,151,473,387,473,436,397,434,91,205,93" href="JeuB.html"
+onMouseover="change_image('Salle_de_bain1')"
+  onMouseOut="hide_image('Salle_de_bain')">
+<area shape="poly" coords="830,536,833,588,914,589,913,645,966,565,917,491,916,537" href="Couloir.html"
+onMouseover="change_image('Salle_de_bain2')"
+  onMouseOut="hide_image('Salle_de_bain')">
+</map>
+</body>
+</html>

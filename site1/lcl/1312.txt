@@ -1,0 +1,35 @@
+   
+Saisi le :
+13/12/2010 à 15:16 Référence Bourse LCL : A210347O52506 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CARREFOUR - FR0000120172 - CA 
+ 
+   
+Saisi le :
+13/12/2010 à 15:17 Référence Bourse LCL : A210343O52174 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CARREFOUR - FR0000120172 - CA 
+ 
+   
+Saisi le : 
+13/12/2010 à 16:15:36 Référence Bourse LCL : A210347O62439 
+Référence de saisie : 20101213161533632403 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CARREFOUR Actions - FR0000120172 - CA  
+Cours* : 32,220 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 61 titre(s) 
+Estimation : 1 975,18 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,38 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

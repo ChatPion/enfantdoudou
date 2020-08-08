@@ -1,0 +1,58 @@
+<HTML>
+     <HEAD>
+            <TITLE>Machine à opération</TITLE>
+      <SCRIPT LANGUAGE="Javascript">
+            function add(form){  
+             a=parseInt(form.rep.value);
+             b=parseInt(form.v1.value)+parseInt(form.v2.value);	
+     
+            if (a==b)
+            {form.res.value = "Bravo!";}
+            else
+            {form.res.value= "Erreur!";}
+        
+           }
+           function rejouer(form){  
+           form.v1.value= parseInt(Math.random() *10) ;
+            form.v2.value= parseInt(Math.random() *10) ;
+            form.rep.value=""  ;
+            form.res.value=""  ;
+}
+              function rejouer2(form){  
+           form.v1.value= parseInt(Math.random() *100) ;
+            form.v2.value= parseInt(Math.random() *100) ;
+            form.rep.value=""  ;
+            form.res.value=""  ;        }  
+          
+            function rejouer3(form){  
+           form.v1.value= parseInt(Math.random() *1000) ;
+            form.v2.value= parseInt(Math.random() *1000) ;
+            form.rep.value=""  ;
+            form.res.value=""  ;        }  
+
+           function jouer(form){  
+           form.v1.value= parseInt(Math.random() *10) ;
+            form.v2.value= parseInt(Math.random() *10) ;
+            form.rep.value=""  ;
+            form.res.value=""  ;
+}
+</SCRIPT> 
+     </HEAD>
+        <BODY>
+         <FORM NAME="form1">
+      nombre1<INPUT NAME="v1" TYPE="TEXT" SIZE="10" onFocus="this.value='INTERDIT !';" onBlur="affichage();"> <br>
+     nombre2<INPUT NAME="v2" TYPE="TEXT" SIZE="10" onFocus="this.value='INTERDIT !';" onBlur="affichage();"> <br>
+     réponse<INPUT NAME="rep" TYPE="TEXT" SIZE="10"> <br>
+     résultat<INPUT NAME="res" TYPE="TEXT" SIZE="10"onFocus="this.value='INTERDIT !';" onBlur="affichage();"> <br>
+
+     <INPUT TYPE="BUTTON" VALUE="Vérifier" OnClick="add(this.form)">
+     <INPUT TYPE="BUTTON" VALUE="Jouer" OnClick="jouer(this.form)"><br>
+     <INPUT TYPE="BUTTON" VALUE="Rejouer au niveau1" OnClick="rejouer(this.form )">
+     <INPUT TYPE="BUTTON" VALUE="Rejouer au niveau2" OnClick="rejouer2(this.form )">
+     <INPUT TYPE="BUTTON" VALUE="Rejouer au niveau3" OnClick="rejouer3(this.form )">
+</FORM>
+<IMG SRC="fleche.jpg" USEMAP="#flèche">
+<MAP NAME="flèche">
+<AREA SHAPE=POLY COORDS="3,39,0,117,102,119,99,156,199,82,102,0,100,40,5,40,3,39" HREF="Le hall(suite).html">
+</BODY>
+</HTML>

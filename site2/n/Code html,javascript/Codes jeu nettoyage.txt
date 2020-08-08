@@ -1,0 +1,34 @@
+						<h2>Distribution de baffes</h2>
+			<FORM name="baffes">
+			<CENTER>
+			<table cellspacing=0 cellpadding=2 border=1>
+			<tr>
+					<td align=center>
+						<table cellspacing=0 cellpadding=0 border=0>
+							<tr>
+
+								<td width=80 align=center><a href="JavaScript:play(1);"><img src="images/jeton_personnages_tpt.gif" name="case1" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(2);"><img src="images/jeton_personnages_tpt.gif" name="case2" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(3);"><img src="images/jeton_personnages_tpt.gif" name="case3" width=70 height=70 border=0></a></td>
+							</tr>
+							<tr>
+								<td width=80 align=center><a href="JavaScript:play(4);"><img src="images/jeton_personnages_tpt.gif" name="case4" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(5);"><img src="images/jeton_personnages_tpt.gif" name="case5" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(6);"><img src="images/jeton_personnages_tpt.gif" name="case6" width=70 height=70 border=0></a></td>
+							</tr>
+							<tr>
+								<td width=80 align=center><a href="JavaScript:play(7);"><img src="images/jeton_personnages_tpt.gif" name="case7" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(8);"><img src="images/jeton_personnages_tpt.gif" name="case8" width=70 height=70 border=0></a></td><td width=80 align=center><a href="JavaScript:play(9);"><img src="images/jeton_personnages_tpt.gif" name="case9" width=70 height=70 border=0></a></td>
+							</tr>
+						</table>
+
+					</td>
+					<td width=80 valign=top align=center>
+						Niveau :<br><font face="courier new" size=3><input type=text name="niveau" value="" size=5></font>
+						<br><br>
+						Points :<br><font face="courier new" size=3><input type=text name="points" value="" size=5></font>
+					</td>
+				</tr>
+				<tr>
+
+					<td colspan=2 align=center>
+						<input type=button value="Aide" onClick="JavaScript:reglement();">&nbsp;&nbsp;&nbsp;<input type=button value="Nouvelle partie" onClick="JavaScript:restart();">
+					</td>
+				</tr>
+			</table>
+						</form>

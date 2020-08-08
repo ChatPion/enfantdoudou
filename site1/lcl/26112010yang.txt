@@ -1,0 +1,98 @@
+ 
+Solde au 25 novembre 2010        496,17  
+Date   Vos opérations   Débit   Crédit   
+25/11/2010    825 NICOX ACHAT 2511 2,232000  1 851,06     
+25/11/2010    37 BNP PARIBAS ACT.A ACHAT 2511  1 831,02     
+25/11/2010    57 ALSTOM ACHAT 2511 32,330000  1 851,96     
+25/11/2010    103 GROUPE STERIA SCA VENTE     1 865,45  
+25/11/2010    1026 NATIXIS VENTE 2511     3 703,00  
+25/11/2010    118 NICOX VENTE 2511 2,273000     258,61  
+24/11/2010    103 GROUPE STERIA SCA ACHAT  1 890,44     
+24/11/2010    544 NATIXIS ACHAT 2411 3,564000  1 948,48     
+24/11/2010    56 ALSTOM ACHAT 2411 32,560000  1 832,50     
+24/11/2010    817 NICOX VENTE 2411 2,400000     1 951,14  
+24/11/2010    859 ALCATEL LUCENT VENTE 2411     1 811,08  
+24/11/2010    110 EADS VENTE 2411 17,430000     1 908,15  
+19/11/2010    CHQ. 2356860  44,00     
+     
+Solde    496,17  
+ 
+
+   
+Saisi le :
+26/11/2010 à 08:52 Référence Bourse LCL : A210329O57483 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NICOX - FR0000074130 - COX 
+ 
+
+
+
+      
+Saisi le : 
+26/11/2010 à 09:12:19 Référence Bourse LCL : A210330O51067 
+Référence de saisie : 20101126091216690045 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 48,640 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 6 titre(s) 
+Estimation : 291,66 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  48,61 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+26/11/2010 à 09:14 Référence Bourse LCL : A210329O59092 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : BNP PARIBAS ACTIONS A - FR0000131104 - BNP 
+ 
+ 
+      
+Saisi le : 
+26/11/2010 à 09:21:19 Référence Bourse LCL : A210330O51416 
+Référence de saisie : 20101126092116657203 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 48,870 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 43 titre(s) 
+Estimation : 2 168,92 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  50,44 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+      
+Saisi le : 
+26/11/2010 à 09:25:24 Référence Bourse LCL : A210330O51572 
+Référence de saisie : 20101126092521742251 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,212 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 707 titre(s) 
+Estimation : 1 657,21 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,344 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

@@ -1,0 +1,103 @@
+      
+Saisi le : 
+02/12/2010 à 14:02:45 Référence Bourse LCL : A210336O61688 
+Référence de saisie : 20101202140243026571 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : ELECTRICITE DE FRANCE Actions - FR0010242511 - EDF  
+Cours* : 31,265 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 122 titre(s) 
+Estimation : 3 813,72 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  31,26 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+02/12/2010 à 14:04 Référence Bourse LCL : A210336O51733 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : DEXIA - BE0003796134 - DEXB 
+ 
+   
+Saisi le : 
+02/12/2010 à 14:08:08 Référence Bourse LCL : A210336O61850 
+Référence de saisie : 20101202140805535593 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,943 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 611 titre(s) 
+Estimation : 1 800,62 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,947 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+02/12/2010 à 14:14:28 Référence Bourse LCL : A210336O62048 
+Référence de saisie : 20101202141425863642 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SANOFI-AVENTIS Actions - FR0000120578 - SAN  
+Cours* : 47,095 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 38 titre(s) 
+Estimation : 1 789,04 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  47,08 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+02/12/2010 à 16:03:47 Référence Bourse LCL : A210336O65345 
+Référence de saisie : 20101202160344715454 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SANOFI-AVENTIS Actions - FR0000120578 - SAN  
+Cours* : 47,305 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 38 titre(s) 
+Estimation : 1 823,24 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  47,98 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+02/12/2010 à 16:05:02 Référence Bourse LCL : A210336O65386 
+Référence de saisie : 20101202160459323473 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : ELECTRICITE DE FRANCE Actions - FR0010242511 - EDF  
+Cours* : 31,020 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 122 titre(s) 
+Estimation : 3 901,56 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  31,98 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

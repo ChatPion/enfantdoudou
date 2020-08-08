@@ -1,0 +1,43 @@
+
+<html>
+<head>
+<style>
+#login{
+position:fixed;
+margin-left:350px;
+margin-top:150px;
+height:150px;
+width:250px;
+font-family:Arial;
+border:dashed #00FFFF 2px;
+font-size:12px;
+}
+</style>
+<script>
+function enter(){
+if (log.logine.value=="" || log.password.value==""){
+        alert('Entre ton pseudo et ton mot de passe!');}
+else if(log.logine.value==""){
+	    alert('Entre ton pseudo!');}
+else if(log.password.value==""){
+        alert('Entre ton mot de passe!');
+		}	
+else{ window.location="carte.html"}}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Document sans nom</title>
+</head>
+<body>
+
+<div id="login"><form name="log">&nbsp;&nbsp; <img src="Connection.PNG">
+  <p>pseudo:
+    <input name="logine" type="text" size="25">
+  </p>
+  <p>mot de passe: <input name="password" type="text" size="20">
+    <sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;"> Inscription!</a></sup></p>
+  <p><center><input name="connect" type="button" value="Go!" onClick="enter()"></center></p>
+</form>
+</div>
+
+</body>
+</html>

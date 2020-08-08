@@ -1,0 +1,49 @@
+ 
+Solde au 10 décembre 2010        183,73  
+Date   Vos opérations   Débit   Crédit   
+10/12/2010    61 CARREFOUR ACHAT 1012  1 953,83     
+10/12/2010    107 SECHILIENNE SIDEC VENTE     1 958,07  
+10/12/2010    CHQ. 2356855  401,00     
+10/12/2010    CHQ. 3018622  77,00     
+09/12/2010    64 CARREFOUR ACHAT 0912  2 069,31     
+09/12/2010    663 DEXIA VENTE 0912 2,996000     1 976,69  
+08/12/2010    VIR RMH E2A1 T1 12/10 TG037     122,00  
+08/12/2010    107 SECHILIENNE SIDEC ACHAT  1 951,71     
+08/12/2010    192 CREDIT AGRICOLE S. VENTE     1 956,42  
+08/12/2010    CHQ. 2356841  20,00     
+07/12/2010    663 DEXIA ACHAT 0712 2,939000  1 957,71     
+07/12/2010    62 BOUYGUES VENTE 0712     1 951,91  
+06/12/2010    VIR C.A.F DE PARIS     443,99  
+06/12/2010    653 DEXIA ACHAT 0612 2,931000  1 923,09     
+06/12/2010    192 CREDIT AGRICOLE S. ACHAT  1 926,08     
+06/12/2010    59 CARREFOUR ACHAT 0612  1 924,28     
+06/12/2010    707 NICOX VENTE 0612 2,299000     1 615,74  
+06/12/2010    122 EDF VENTE 0612 31,650000     3 846,02  
+06/12/2010    62 BOUYGUES ACHAT 0612  1 943,23     
+06/12/2010    653 DEXIA VENTE 0612 2,974000     1 932,87  
+     
+Solde    183,73  
+ 
+
+
+
+
+      
+Saisi le : 
+13/12/2010 à 09:43:26 Référence Bourse LCL : A210347O52506 
+Référence de saisie : 20101213094323814362 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CARREFOUR Actions - FR0000120172 - CA  
+Cours* : 31,945 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 61 titre(s) 
+Estimation : 1 981,28 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,48 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

@@ -1,0 +1,26 @@
+<BODY>
+<script language="javascript">
+  urlImage1="Sans titre.JPG";
+  urlImage2="Sans titre2.JPG";
+
+  imgCourante = 1;
+
+  function ChangeImage(){
+     imgCourante = (imgCourante + 1) % 2;
+     document.image.src="feuille"+(imgCourante+1)+".jpeg";
+  }
+
+</script>
+<img src="Sans titre.JPG" USEMAP="#g"><MAP NAME="g">
+<!-- #$-:Image Map file created by Map THIS! -->
+<!-- #$-:Map THIS! free image map editor by Todd C. Wilson -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:1.30 -->
+<!-- #$DATE:Mon Sep 13 19:29:25 2010 -->
+<!-- #$PATH:C:\enfantdoudou\ -->
+<!-- #$GIF:Sans titre.JPG -->
+<AREA SHAPE=RECT COORDS="1,1,173,238
+" a 
+   href="javascript:;" 
+   onClick="ChangeImage();">
+</MAP></BODY>

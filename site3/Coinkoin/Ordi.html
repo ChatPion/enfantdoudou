@@ -1,0 +1,46 @@
+<HTML>
+      <HEAD>
+       <STYLE>
+       .classp{
+                width:810px;
+	height:810px;
+	margin:0px;
+	position:absolute;
+                background-image:url(Ordi.GIF);
+}
+       .classeordi{
+	width:700px;
+	height:700px;
+	border:0px solid gray;
+	padding:0px;
+	margin:50px;
+	position:absolute;
+                
+}
+</STYLE>
+<SCRIPT Language="Javascript">
+function LienAuHasard()
+{
+    Url = new Array;
+    base = "JeuA";
+    Url[0] = "1.html";
+    Url[1] = "2.html";
+    Url[2] = "3.html"
+
+    ChoixLien = Math.floor(Math.random() * Url.length);
+    window.open(base + Url[ChoixLien]);
+}
+</SCRIPT>
+</HEAD>
+<BODY>
+<DIV class="classp">
+<DIV class="classeordi">
+<IMG SRC="Ordi1.GIF" USEMAP="#a">
+<MAP NAME="a">
+<AREA SHAPE=RECT COORDS="671,4,694,29" HREF="Salon.html">
+<AREA SHAPE=RECT COORDS="42,316,155,425" HREF="" onClick="LienAuHasard(); return(false)">
+</MAP>
+</DIV>
+</DIV>
+</BODY>
+</HTML>

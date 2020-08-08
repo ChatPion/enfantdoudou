@@ -1,0 +1,67 @@
+<html>
+<head>
+<script>
+ /* urlImage1="JeuB1.GIF";
+  urlImage2="JeuB2.GIF";
+    urlImage3="JeuB3.GIF";
+  urlImage4="JeuB4.GIF";
+  urlImage5="JeuB5.GIF";
+    urlImage6="JeuB6.GIF";
+	  urlImage7="JeuB7.GIF";
+   urlImage8="JeuB8.GIF";
+     urlImage9="JeuB9.GIF";*/
+  imgCourante = 0;
+
+  function ChangeImage(){
+     imgCourante = (imgCourante + 1) % 9;
+     document.coinkoin.src="JeuB"+(imgCourante+1)+".GIF";
+     document.objet.src="JeuBB"+(imgCourante+1)+".GIF";
+ if(imgCourante % 9==7){
+   if(window.confirm('Bravo! Coinkoin est tout propre maintenant!\n Veux-tu retourner dans la salle de bain?')==true){window.location="Salle_de_bain.html"};  
+  }}
+</script>
+<style>
+Div.classh{
+	height:559px;
+	width:400px;
+	border:dashed black 2px;
+	position:absolute;
+	margin-left:200px;
+	left: -119px;
+	top: 17px;
+	 }
+	.classb{
+	height:100px;
+	width:100px;
+	border:dashed black 2px;
+	position:absolute;
+	margin-left:300px;
+	margin-top: 600px;
+	left: 269px;
+	top: -418px;
+}
+<!--
+span{
+	font-size:36px;
+	color:#00FF00;
+	font-family:Comic Sans MS;
+	text-align:center;
+	position:absolute;
+	margin-top:800px;
+	left: 509px;
+	top: -418px;
+	height: 48px;
+}
+		  -->
+		  
+</style>
+</head>
+<body>
+<Div class="classh"><img name="coinkoin" src="JeuB1.GIF"></Div>
+<div class="classb"><a 
+   href="javascript:;" 
+   onClick="ChangeImage();"
+><img name="objet" src="JeuBB1.GIF"></a></div>
+<span> Lave Coinkoin!</span>
+</body>
+</html>

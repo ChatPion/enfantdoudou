@@ -1,0 +1,198 @@
+ 
+Solde au 29 novembre 2010        195,42  
+Date   Vos opérations   Débit   Crédit   
+26/11/2010    6 BNP PARIBAS ACT.A ACHAT 2611  300,75     
+25/11/2010    825 NICOX ACHAT 2511 2,232000  1 851,06     
+25/11/2010    37 BNP PARIBAS ACT.A ACHAT 2511  1 831,02     
+25/11/2010    57 ALSTOM ACHAT 2511 32,330000  1 851,96     
+25/11/2010    103 GROUPE STERIA SCA VENTE     1 865,45  
+25/11/2010    1026 NATIXIS VENTE 2511     3 703,00  
+25/11/2010    118 NICOX VENTE 2511 2,273000     258,61  
+24/11/2010    103 GROUPE STERIA SCA ACHAT  1 890,44     
+24/11/2010    544 NATIXIS ACHAT 2411 3,564000  1 948,48     
+24/11/2010    56 ALSTOM ACHAT 2411 32,560000  1 832,50     
+24/11/2010    817 NICOX VENTE 2411 2,400000     1 951,14  
+24/11/2010    859 ALCATEL LUCENT VENTE 2411     1 811,08  
+24/11/2010    110 EADS VENTE 2411 17,430000     1 908,15  
+19/11/2010    CHQ. 2356860  44,00     
+18/11/2010    482 NATIXIS ACHAT 1811 3,849000  1 864,88     
+18/11/2010    859 ALCATEL LUCENT ACHAT 1811  1 866,30     
+18/11/2010    110 EADS ACHAT 1811 17,370000  1 919,85     
+18/11/2010    482 UBISOFT ENTERTAIN VENTE     3 719,73  
+18/11/2010    57 ALSTOM VENTE 1811 33,890000     1 922,58  
+16/11/2010    233 UBISOFT ENTERTAIN ACHAT  1 902,55     
+16/11/2010    875 ALCATEL LUCENT VENTE 1611     1 906,23  
+16/11/2010    249 UBISOFT ENTERTAIN ACHAT  1 916,31     
+16/11/2010    39 SANOFI-AVENTIS VENTE 1611     1 903,22  
+15/11/2010    58 BOUYGUES ACHAT 1511  1 900,31     
+15/11/2010    39 SANOFI-AVENTIS ACHAT 1511  1 921,32     
+15/11/2010    57 ALSTOM ACHAT 1511 33,485000  1 917,80     
+15/11/2010    795 NICOX VENTE 1511 2,409000     1 905,50  
+15/11/2010    953 NATIXIS VENTE 1511 4,049000     3 842,91  
+15/11/2010    817 NICOX ACHAT 1511 2,335000  1 917,36     
+15/11/2010    58 BOUYGUES VENTE 1511     1 909,85  
+15/11/2010    CHQ. 2356859  175,00     
+12/11/2010    CHQ. 3018621  36,90     
+10/11/2010    VIR RMH E2A1 T1 11/10 TG037     122,00  
+10/11/2010    448 NATIXIS ACHAT 1011 4,123000  1 856,76     
+10/11/2010    47 LYX.ETF XBEAR CAC VENTE 1011     1 849,66  
+10/11/2010    505 NATIXIS ACHAT 1011 3,941000  1 999,87     
+10/11/2010    89 SAFRAN VENTE 1011 22,530000     1 995,51  
+09/11/2010    89 SAFRAN ACHAT 0911 22,495000  2 011,72     
+09/11/2010    47 LYX.ETF XBEAR CAC ACHAT 0911  1 865,22     
+09/11/2010    109 CAP GEMINI VENTE 0911     3 749,97  
+09/11/2010    934 ALCATEL LUCENT VENTE 0911     2 152,13  
+09/11/2010    875 ALCATEL LUCENT ACHAT 0911  2 018,15     
+08/11/2010    934 ALCATEL LUCENT ACHAT 0811  2 162,02     
+08/11/2010    49 LYX.ETF XBEAR CAC VENTE 0811     1 957,20  
+05/11/2010    VIR C.A.F DE PARIS     443,99  
+05/11/2010    CHQ. 2356839  100,00     
+04/11/2010    55 CAP GEMINI ACHAT 0411  1 978,39     
+04/11/2010    54 CAP GEMINI ACHAT 0411  1 979,61     
+04/11/2010    49 LYX.ETF XBEAR CAC ACHAT 0411  1 965,25     
+04/11/2010    597 DEXIA VENTE 0411 3,286000     1 952,08  
+04/11/2010    53 CAP GEMINI VENTE 0411     1 979,96  
+04/11/2010    37 BNP PARIBAS ACT.A VENTE 0411     1 987,60  
+03/11/2010    53 CAP GEMINI ACHAT 0311  1 963,26     
+03/11/2010    91 SOCIETE GENERALE A VENTE     3 951,39  
+03/11/2010    37 BNP PARIBAS ACT.A VENTE 0311     1 952,96  
+03/11/2010    597 DEXIA ACHAT 0311 3,223000  1 933,79     
+03/11/2010    37 BNP PARIBAS ACT.A ACHAT 0311  1 953,27     
+03/11/2010    48 LYX.ETF XBEAR CAC VENTE 0311     1 977,06  
+03/11/2010    795 NICOX ACHAT 0311 2,483000  1 983,65     
+03/11/2010    596 DEXIA VENTE 0311 3,256000     1 930,92  
+03/11/2010    48 LYX.ETF XBEAR CAC ACHAT 0311  1 963,26     
+02/11/2010    ABONNEMENT LCL BANQUE EN LIGNE  3,50     
+02/11/2010    46 SOCIETE GENERALE A ACHAT  1 950,81     
+02/11/2010    13 HERMES INTL VENTE 0211     1 939,04  
+01/11/2010    37 BNP PARIBAS ACT.A ACHAT 0111  1 940,32     
+01/11/2010    3000 THEOLIA VENTE 0111     3 913,93  
+01/11/2010    83 ARCELORMIT.PRO.FUS VENTE     1 938,86  
+01/11/2010    13 HERMES INTL ACHAT 0111  1 954,46     
+01/11/2010    45 SOCIETE GENERALE A ACHAT  1 927,73     
+29/10/2010    596 DEXIA ACHAT 2910 3,202000  1 917,54     
+29/10/2010    83 ARCELORMIT.PRO.FUS ACHAT  1 923,13     
+29/10/2010    92 LYX.ETF XBEAR CAC VENTE 2910     3 857,35  
+28/10/2010    CHQ. 2356858  41,12     
+21/10/2010    3000 THEOLIA ACHAT 2110  3 885,90     
+21/10/2010    46 LYX.ETF XBEAR CAC ACHAT 2110  1 908,54     
+21/10/2010    187 GROUPE STERIA SCA VENTE     3 855,58  
+21/10/2010    53 ALSTOM VENTE 2110 36,360000     1 917,42  
+20/10/2010    96 GROUPE STERIA SCA ACHAT 2010  1 993,02     
+20/10/2010    53 ALSTOM ACHAT 2010 35,560000  1 893,83     
+20/10/2010    50 CARREFOUR VENTE 2010     1 911,35  
+     
+Solde    195,42  
+ 
+
+   
+      
+Saisi le :
+30/11/2010 à 09:21 Référence Bourse LCL : A210329O53402 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : ALSTOM - FR0010220475 - ALO 
+ 
+ 
+
+
+
+      
+Saisi le : 
+30/11/2010 à 09:22:05 Référence Bourse LCL : A210334O51904 
+Référence de saisie : 20101130092202076736 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : ALSTOM Actions - FR0010220475 - ALO  
+Cours* : 31,730 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 113 titre(s) 
+Estimation : 3 586,62 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  31,74 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+      
+Saisi le : 
+30/11/2010 à 09:34:00 Référence Bourse LCL : A210334O52410 
+Référence de saisie : 20101130093357534948 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 46,830 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 38 titre(s) 
+Estimation : 1 779,92 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  46,84 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+30/11/2010 à 09:41:02 Référence Bourse LCL : A210334O52658 
+Référence de saisie : 20101130094059457055 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,910 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 611 titre(s) 
+Estimation : 1 767,62 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,893 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+      
+Saisi le : 
+30/11/2010 à 09:43:33 Référence Bourse LCL : A210334O52762 
+Référence de saisie : 20101130094330798092 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 46,660 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 38 titre(s) 
+Estimation : 1 823,24 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  47,98 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+30/11/2010 à 09:46:38 Référence Bourse LCL : A210334O52867 
+Référence de saisie : 20101130094635115114 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,905 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 611 titre(s) 
+Estimation : 1 823,22 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,984 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

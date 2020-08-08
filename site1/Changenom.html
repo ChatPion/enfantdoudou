@@ -1,0 +1,18 @@
+<html> <head> <title> Machine à nom </title>
+<script language = "javascript">
+function test(form) {form.resultat.value = "Doudou" + form.saisie.value  }
+            function affiche(form){  	
+a="bonjour ";
+b=form.resultat.value;
+          alert(a + b) ;
+}
+           </SCRIPT> 
+</head> <Body> 
+<form> 
+Ecris un nom inventé : <input type = "text" name = "saisie" size = "5"> <P>
+<input type = "button" value = "Cliquer ici" onClick = "test(this.form)"> <p>
+Voilà un nom rigolo: <input type = "text" name = "resultat" size = "10"> <P> 
+<INPUT TYPE="BUTTON" VALUE="Clique ici" OnClick="affiche(this.form)"> 
+</form>
+<A HREF="Le hall.html"><IMG SRC="fleche.jpg"></A>
+</body> </html>

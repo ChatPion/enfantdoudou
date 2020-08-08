@@ -1,0 +1,95 @@
+
+
+
+      
+Saisi le : 
+06/12/2010 à 15:03:12 Référence Bourse LCL : A210340O59211 
+Référence de saisie : 20101206150309639560 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,966 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 653 titre(s) 
+Estimation : 1 957,04 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,997 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+06/12/2010 à 16:05 Référence Bourse LCL : A210340O59211 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : DEXIA - BE0003796134 - DEXB 
+ 
+ 
+
+
+
+      
+Saisi le : 
+06/12/2010 à 16:07:41 Référence Bourse LCL : A210340O60474 
+Référence de saisie : 20101206160738182856 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,973 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 653 titre(s) 
+Estimation : 1 942,02 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,974 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+06/12/2010 à 16:12:02 Référence Bourse LCL : A210340O60555 
+Référence de saisie : 20101206161159041867 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BOUYGUES Actions - FR0000120503 - EN  
+Cours* : 31,190 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 62 titre(s) 
+Estimation : 1 934,40 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  31,20 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+06/12/2010 à 16:16:20 Référence Bourse LCL : A210340O60626 
+Référence de saisie : 20101206161617678913 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BOUYGUES Actions - FR0000120503 - EN  
+Cours* : 31,200 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 62 titre(s) 
+Estimation : 1 982,76 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  31,98 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

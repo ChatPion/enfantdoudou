@@ -1,0 +1,383 @@
+
+      
+Saisi le :
+14/12/2010 à 16:20 Référence Bourse LCL : A210348O52809 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : SAFRAN - FR0000073272 - SAF 
+ 
+ 
+   
+Saisi le : 
+14/12/2010 à 16:22:57 Référence Bourse LCL : A210348O64013 
+Référence de saisie : 20101214162254620814 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SAFRAN Actions - FR0000073272 - SAF  
+Cours* : 25,100 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 78 titre(s) 
+Estimation : 1 960,14 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  25,13 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+14/12/2010 à 14:00:38 Référence Bourse LCL : A210348O59759 
+Référence de saisie : 20101214140035628204 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,980 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 653 titre(s) 
+Estimation : 1 998,18 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  3,06 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+      
+Saisi le : 
+14/12/2010 à 14:02:25 Référence Bourse LCL : A210348O59798 
+Référence de saisie : 20101214140222360209 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,750 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 519 titre(s) 
+Estimation : 1 985,69 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  3,826 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+  
+Solde au 13 décembre 2010        1 502,18  
+Date   Vos opérations   Débit   Crédit   
+13/12/2010    41 CARREFOUR VENTE 1312     1 318,45  
+10/12/2010    61 CARREFOUR ACHAT 1012  1 953,83     
+10/12/2010    107 SECHILIENNE SIDEC VENTE     1 958,07  
+10/12/2010    CHQ. 2356855  401,00     
+10/12/2010    CHQ. 3018622  77,00     
+09/12/2010    64 CARREFOUR ACHAT 0912  2 069,31     
+09/12/2010    663 DEXIA VENTE 0912 2,996000     1 976,69  
+08/12/2010    VIR RMH E2A1 T1 12/10 TG037     122,00  
+08/12/2010    107 SECHILIENNE SIDEC ACHAT  1 951,71     
+08/12/2010    192 CREDIT AGRICOLE S. VENTE     1 956,42  
+08/12/2010    CHQ. 2356841  20,00     
+07/12/2010    663 DEXIA ACHAT 0712 2,939000  1 957,71     
+07/12/2010    62 BOUYGUES VENTE 0712     1 951,91  
+     
+Solde    1 502,18  
+   
+      
+Saisi le :
+14/12/2010 à 08:56 Référence Bourse LCL : A210347O62439 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CARREFOUR - FR0000120172 - CA 
+ 
+ 
+   
+Saisi le : 
+14/12/2010 à 09:12:23 Référence Bourse LCL : A210348O51417 
+Référence de saisie : 20101214091220520164 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SAFRAN Actions - FR0000073272 - SAF  
+Cours* : 24,890 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 49 titre(s) 
+Estimation : 1 218,63 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  24,87 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+14/12/2010 à 09:16:16 Référence Bourse LCL : A210348O51565 
+Référence de saisie : 20101214091613304217 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CARREFOUR Actions - FR0000120172 - CA  
+Cours* : 32,380 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 143 titre(s) 
+Estimation : 4 687,54 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,78 EUR 
+Date de validité : 14/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+14/12/2010 à 09:18 Référence Bourse LCL : A210348O51417 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : SAFRAN - FR0000073272 - SAF 
+ 
+ 
+   
+      
+Saisi le :
+14/12/2010 à 09:21 Référence Bourse LCL : A210348O51565 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CARREFOUR - FR0000120172 - CA 
+ 
+ 
+      
+Saisi le : 
+14/12/2010 à 09:31:36 Référence Bourse LCL : A210348O52156 
+Référence de saisie : 20101214093133575417 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CARREFOUR Actions - FR0000120172 - CA  
+Cours* : 32,515 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 143 titre(s) 
+Estimation : 4 656,08 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,56 EUR 
+Date de validité : 14/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+      
+Saisi le : 
+14/12/2010 à 09:35:49 Référence Bourse LCL : A210348O52331 
+Référence de saisie : 20101214093546627466 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SAFRAN Actions - FR0000073272 - SAF  
+Cours* : 24,825 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 78 titre(s) 
+Estimation : 1 932,84 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  24,78 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+Votre ordre est bien enregistré
+
+
+
+      
+Saisi le : 
+14/12/2010 à 09:41:17 Référence Bourse LCL : A210348O52524 
+Référence de saisie : 20101214094114230522 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 3,010 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 651 titre(s) 
+Estimation : 1 947,14 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,991 EUR 
+Date de validité : 14/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+14/12/2010 à 09:48:18 Référence Bourse LCL : A210348O52809 
+Référence de saisie : 20101214094815106624 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SAFRAN Actions - FR0000073272 - SAF  
+Cours* : 24,810 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 78 titre(s) 
+Estimation : 1 971,84 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  25,28 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+14/12/2010 à 09:51 Référence Bourse LCL : A210348O52524 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : DEXIA - BE0003796134 - DEXB 
+ 
+   
+Saisi le : 
+14/12/2010 à 09:53:05 Référence Bourse LCL : A210348O52996 
+Référence de saisie : 20101214095302608666 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,991 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 653 titre(s) 
+Estimation : 1 950,51 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,987 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+14/12/2010 à 09:56:53 Référence Bourse LCL : A210348O53158 
+Référence de saisie : 20101214095650144706 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,750 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 519 titre(s) 
+Estimation : 1 946,77 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  3,751 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+Saisi le : 
+14/12/2010 à 17:10:23 Référence Bourse LCL : A210348O65270 
+Référence de saisie : 20101214171020196100 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,247 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 862 titre(s) 
+Estimation : 1 937,78 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,248 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+14/12/2010 à 17:14 Référence Bourse LCL : A210348O65270 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NICOX - FR0000074130 - COX 
+ 
+ 
+
+
+
+      
+Saisi le : 
+14/12/2010 à 17:18:31 Référence Bourse LCL : A210348O65456 
+Référence de saisie : 20101214171828108136 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,723 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 203 titre(s) 
+Estimation : 755,77 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  3,723 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+14/12/2010 à 17:22:12 Référence Bourse LCL : A210348O65547 
+Référence de saisie : 20101214172209583171 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : UBISOFT ENTERTAINMENT Actions - FR0000054470 - UBI  
+Cours* : 7,740 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 150 titre(s) 
+Estimation : 1 198,50 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  7,99 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+14/12/2010 à 17:22 Référence Bourse LCL : A210348O59798 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NATIXIS - FR0000120685 - KN 
+ 
+ 
+      
+Saisi le : 
+14/12/2010 à 17:26:27 Référence Bourse LCL : A210348O65664 
+Référence de saisie : 20101214172624899198 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,725 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 722 titre(s) 
+Estimation : 2 763,82 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  3,828 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

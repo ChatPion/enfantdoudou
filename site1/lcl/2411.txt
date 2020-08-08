@@ -1,0 +1,53 @@
+Votre ordre est bien enregistré
+
+
+
+      
+Saisi le : 
+24/11/2010 à 15:42:05 Référence Bourse LCL : A210328O62322 
+Référence de saisie : 20101124154202166891 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,566 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 544 titre(s) 
+Estimation : 1 939,90 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  3,566 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+24/11/2010 à 15:47 Référence Bourse LCL : A210328O58643 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NATIXIS - FR0000120685 - KN 
+ 
+
+
+
+      
+Saisi le : 
+24/11/2010 à 15:51:45 Référence Bourse LCL : A210328O62513 
+Référence de saisie : 20101124155142333910 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,565 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 1 026 titre(s) 
+Estimation : 3 956,26 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  3,856 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

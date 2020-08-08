@@ -1,0 +1,209 @@
+Saisi le :
+07/12/2010 à 15:02 Référence Bourse LCL : A210341O51919 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CREDIT AGRICOLE S.A. - FR0000045072 - ACA 
+   
+Saisi le : 
+07/12/2010 à 15:06:12 Référence Bourse LCL : A210341O63436 
+Référence de saisie : 20101207150609351582 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CREDIT AGRICOLE S.A. Actions - FR0000045072 - ACA  
+Cours* : 10,060 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 192 titre(s) 
+Estimation : 1 966,08 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  10,24 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+ 
+Solde au 6 décembre 2010        649,20  
+Date   Vos opérations   Débit   Crédit   
+06/12/2010    VIR C.A.F DE PARIS     443,99  
+06/12/2010    653 DEXIA ACHAT 0612 2,931000  1 923,09     
+06/12/2010    192 CREDIT AGRICOLE S. ACHAT  1 926,08     
+06/12/2010    59 CARREFOUR ACHAT 0612  1 924,28     
+06/12/2010    707 NICOX VENTE 0612 2,299000     1 615,74  
+06/12/2010    122 EDF VENTE 0612 31,650000     3 846,02  
+06/12/2010    62 BOUYGUES ACHAT 0612  1 943,23     
+06/12/2010    653 DEXIA VENTE 0612 2,974000     1 932,87  
+03/12/2010    VIREMENT MR OU MME LAW KI  1 500,00     
+03/12/2010    FRAIS VIREMENT AVEC RIB  3,90     
+02/12/2010    38 SANOFI-AVENTIS VENTE 0212     1 813,59  
+02/12/2010    38 SANOFI-AVENTIS ACHAT 0212  1 798,18     
+02/12/2010    122 EDF ACHAT 0212 31,260000  3 828,80     
+02/12/2010    611 DEXIA VENTE 0212 2,947000     1 791,48  
+02/12/2010    81 BNP PARIBAS ACT.A VENTE 0212     3 854,87  
+01/12/2010    ABONNEMENT LCL BANQUE EN LIGNE  3,50     
+30/11/2010    611 DEXIA ACHAT 3011 2,893000  1 776,76     
+30/11/2010    38 BNP PARIBAS ACT.A ACHAT 3011  1 789,38     
+30/11/2010    113 ALSTOM VENTE 3011 31,740000     3 572,42  
+     
+Solde    649,20  
+ 
+
+   
+      
+Saisi le :
+07/12/2010 à 09:01 Référence Bourse LCL : A210340O60626 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : BOUYGUES - FR0000120503 - EN 
+ 
+ 
+   
+Saisi le : 
+07/12/2010 à 09:14:45 Référence Bourse LCL : A210341O51244 
+Référence de saisie : 20101207091442347413 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BOUYGUES Actions - FR0000120503 - EN  
+Cours* : 31,615 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 62 titre(s) 
+Estimation : 1 970,36 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  31,78 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+07/12/2010 à 09:16 Référence Bourse LCL : A210341O51244 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : BOUYGUES - FR0000120503 - EN 
+ 
+ 
+   
+Saisi le : 
+07/12/2010 à 09:17:54 Référence Bourse LCL : A210341O51361 
+Référence de saisie : 20101207091751676444 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BOUYGUES Actions - FR0000120503 - EN  
+Cours* : 31,505 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 62 titre(s) 
+Estimation : 1 961,06 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  31,63 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+07/12/2010 à 09:21 Référence Bourse LCL : A210340O53881 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CREDIT AGRICOLE S.A. - FR0000045072 - ACA 
+ 
+   
+Saisi le : 
+07/12/2010 à 09:25:58 Référence Bourse LCL : A210341O51690 
+Référence de saisie : 20101207092556211539 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,938 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 663 titre(s) 
+Estimation : 1 948,56 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,939 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+07/12/2010 à 09:30:11 Référence Bourse LCL : A210341O51849 
+Référence de saisie : 20101207093008966594 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,938 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 663 titre(s) 
+Estimation : 1 986,35 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,996 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+07/12/2010 à 09:31:48 Référence Bourse LCL : A210341O51919 
+Référence de saisie : 20101207093145910602 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CREDIT AGRICOLE S.A. Actions - FR0000045072 - ACA  
+Cours* : 9,880 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 192 titre(s) 
+Estimation : 1 950,72 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  10,16 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+07/12/2010 à 09:33 Référence Bourse LCL : A210340O53844 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : CARREFOUR - FR0000120172 - CA 
+ 
+ 
+      
+Saisi le : 
+07/12/2010 à 09:34:16 Référence Bourse LCL : A210341O52010 
+Référence de saisie : 20101207093413409650 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : CARREFOUR Actions - FR0000120172 - CA  
+Cours* : 32,285 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 59 titre(s) 
+Estimation : 1 945,82 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,98 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

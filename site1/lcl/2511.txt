@@ -1,0 +1,97 @@
+   
+Saisi le :
+25/11/2010 à 13:53 Référence Bourse LCL : A210329O53297 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NICOX - FR0000074130 - COX 
+ 
+
+
+
+      
+Saisi le : 
+25/11/2010 à 13:54:16 Référence Bourse LCL : A210329O57483 
+Référence de saisie : 20101125135413166319 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,262 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 825 titre(s) 
+Estimation : 1 875,23 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,273 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+25/11/2010 à 14:25 Référence Bourse LCL : A210329O53801 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : GROUPE STERIA SCA - FR0000072910 - RIA 
+ 
+ 
+   
+Saisi le : 
+25/11/2010 à 15:09:26 Référence Bourse LCL : A210329O58932 
+Référence de saisie : 20101125150923778633 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : GROUPE STERIA SCA Actions - FR0000072910 - RIA  
+Cours* : 18,200 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 103 titre(s) 
+Estimation : 1 874,60 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  18,20 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+25/11/2010 à 15:11:59 Référence Bourse LCL : A210329O58999 
+Référence de saisie : 20101125151156619617 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 49,240 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 37 titre(s) 
+Estimation : 1 821,88 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  49,24 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+25/11/2010 à 15:16:10 Référence Bourse LCL : A210329O59092 
+Référence de saisie : 20101125151607918622 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 49,225 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 37 titre(s) 
+Estimation : 1 862,21 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  50,33 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

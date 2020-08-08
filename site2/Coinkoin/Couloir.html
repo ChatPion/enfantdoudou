@@ -1,0 +1,43 @@
+<html>
+<head>
+<META content=text/javascript http-equiv=Content-Script-Type>
+<META content=text/css http-equiv=Content-Style-Type>
+<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<SCRIPT language=JavaScript type=text/javascript 
+src="script/script1.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+i1 = new Image;
+i1.src = "Couloir.GIF";
+i2 = new Image;
+i2.src = "Couloir1.GIF";
+i3 = new Image;
+i3.src = "Couloir2.GIF"; 
+i4 = new Image;
+i4.src = "Couloir3.GIF";
+i5 = new Image;
+i5.src = "Couloir4.GIF"; 
+</SCRIPT>
+</head>
+<body>
+  <DIV 
+  style="BACKGROUND-IMAGE:url(Couloir.GIF); background-repeat:no-repeat";
+      id=area_image ><img alt="" 
+      src="transparent.png" 
+      usemap=#Map></DIV>
+  <map name="Map"><area shape="rect" coords="422,84,680,327" href="Salle_de_bain.html"
+onMouseover="change_image('Couloir2')"
+  onMouseOut="hide_image('Couloir')">
+<area shape="rect" coords="127,96,303,327" href="Chambre.html"
+onMouseover="change_image('Couloir1')"
+  onMouseOut="hide_image('Couloir')">
+  <area shape="poly" coords="65,485,116,436,112,470,181,467,182,520,112,520,114,542" href="Corniche.html" onMouseover="change_image('Couloir3')"
+  onMouseOut="hide_image('Couloir')">
+<area shape="poly" coords="975,483,979,248,1007,450,1005,664" href="Toilette.html"
+onMouseover="change_image('Couloir5')"
+  onMouseOut="hide_image('Couloir')">
+<area shape="poly" coords="838,119,838,333,949,401,950,187" href="Salon.html"
+onMouseover="change_image('Couloir4')"
+  onMouseOut="hide_image('Couloir')">
+</map>
+</body>
+</html>

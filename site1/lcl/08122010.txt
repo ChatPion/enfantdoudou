@@ -1,0 +1,61 @@
+Vos opérations   Débit   Crédit   
+07/12/2010    663 DEXIA ACHAT 0712 2,939000  1 957,71     
+07/12/2010    62 BOUYGUES VENTE 0712     1 951,91  
+06/12/2010    VIR C.A.F DE PARIS     443,99  
+06/12/2010    653 DEXIA ACHAT 0612 2,931000  1 923,09     
+06/12/2010    192 CREDIT AGRICOLE S. ACHAT  1 926,08     
+06/12/2010    59 CARREFOUR ACHAT 0612  1 924,28     
+06/12/2010    707 NICOX VENTE 0612 2,299000     1 615,74  
+06/12/2010    122 EDF VENTE 0612 31,650000     3 846,02  
+06/12/2010    62 BOUYGUES ACHAT 0612  1 943,23     
+06/12/2010    653 DEXIA VENTE 0612 2,974000     1 932,87  
+03/12/2010    VIREMENT MR OU MME LAW KI  1 500,00     
+03/12/2010    FRAIS VIREMENT AVEC RIB  3,90     
+02/12/2010    38 SANOFI-AVENTIS VENTE 0212     1 813,59  
+02/12/2010    38 SANOFI-AVENTIS ACHAT 0212  1 798,18     
+02/12/2010    122 EDF ACHAT 0212 31,260000  3 828,80     
+02/12/2010    611 DEXIA VENTE 0212 2,947000     1 791,48  
+02/12/2010    81 BNP PARIBAS ACT.A VENTE 0212     3 854,87  
+01/12/2010    ABONNEMENT LCL BANQUE EN LIGNE  3,50     
+     
+   
+Saisi le : 
+08/12/2010 à 15:52:33 Référence Bourse LCL : A210342O63042 
+Référence de saisie : 20101208155230143624 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SECHILIENNE SIDEC Actions - FR0000060402 - SECH  
+Cours* : 18,130 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 107 titre(s) 
+Estimation : 1 942,05 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  18,15 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+08/12/2010 à 15:55:11 Référence Bourse LCL : A210342O63148 
+Référence de saisie : 20101208155508365667 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SECHILIENNE SIDEC Actions - FR0000060402 - SECH  
+Cours* : 18,150 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 107 titre(s) 
+Estimation : 1 983,78 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  18,54 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

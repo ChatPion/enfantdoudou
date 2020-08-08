@@ -1,0 +1,229 @@
+ 
+Solde au 24 novembre 2010        203,15  
+Date   Vos opérations   Débit   Crédit   
+24/11/2010    103 GROUPE STERIA SCA ACHAT  1 890,44     
+24/11/2010    544 NATIXIS ACHAT 2411 3,564000  1 948,48     
+24/11/2010    56 ALSTOM ACHAT 2411 32,560000  1 832,50     
+24/11/2010    817 NICOX VENTE 2411 2,400000     1 951,14  
+24/11/2010    859 ALCATEL LUCENT VENTE 2411     1 811,08  
+24/11/2010    110 EADS VENTE 2411 17,430000     1 908,15  
+19/11/2010    CHQ. 2356860  44,00     
+18/11/2010    482 NATIXIS ACHAT 1811 3,849000  1 864,88     
+18/11/2010    859 ALCATEL LUCENT ACHAT 1811  1 866,30     
+18/11/2010    110 EADS ACHAT 1811 17,370000  1 919,85     
+18/11/2010    482 UBISOFT ENTERTAIN VENTE     3 719,73  
+18/11/2010    57 ALSTOM VENTE 1811 33,890000     1 922,58  
+     
+Solde    203,15  
+ 
+
+   
+      
+Saisi le :
+25/11/2010 à 09:03 Référence Bourse LCL : A210328O62513 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : NATIXIS - FR0000120685 - KN 
+ 
+ 
+   
+Saisi le : 
+25/11/2010 à 09:27:53 Référence Bourse LCL : A210329O51650 
+Référence de saisie : 20101125092750877714 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NATIXIS Actions - FR0000120685 - KN  
+Cours* : 3,621 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 1 026 titre(s) 
+Estimation : 3 718,22 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  3,624 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+Votre ordre est bien enregistré
+
+
+
+      
+Saisi le : 
+25/11/2010 à 09:34:52 Référence Bourse LCL : A210329O51890 
+Référence de saisie : 20101125093449955773 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,259 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 825 titre(s) 
+Estimation : 1 841,40 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  2,232 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+Votre ordre est bien enregistré
+
+
+
+      
+Saisi le : 
+25/11/2010 à 09:48:18 Référence Bourse LCL : A210329O52333 
+Référence de saisie : 20101125094815942882 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : SECHILIENNE SIDEC Actions - FR0000060402 - SECH  
+Cours* : 19,550 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 94 titre(s) 
+Estimation : 1 833,47 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  19,505 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+25/11/2010 à 09:54 Référence Bourse LCL : A210329O52333 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : SECHILIENNE SIDEC - FR0000060402 - SECH 
+ 
+   
+Saisi le : 
+25/11/2010 à 09:57:52 Référence Bourse LCL : A210329O52612 
+Référence de saisie : 20101125095749208987 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : EADS Actions - NL0000235190 - EAD  
+Cours* : 17,365 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 106 titre(s) 
+Estimation : 1 839,10 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  17,35 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+25/11/2010 à 10:12 Référence Bourse LCL : A210329O52612 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : EADS - NL0000235190 - EAD 
+ 
+ 
+   
+Saisi le : 
+25/11/2010 à 10:13:51 Référence Bourse LCL : A210329O53115 
+Référence de saisie : 20101125101348656139 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : ALSTOM Actions - FR0010220475 - ALO  
+Cours* : 32,320 Euros  
+Sens : Achat  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 57 titre(s) 
+Estimation : 1 842,81 Euros 
+Modalité : A cours Limite  
+Au cours maximum de :  32,33 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+      
+Saisi le :
+25/11/2010 à 10:16 Référence Bourse LCL : A210328O58407 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : ALSTOM - FR0010220475 - ALO 
+ 
+ 
+Votre ordre est bien enregistré
+
+
+
+      
+Saisi le : 
+25/11/2010 à 10:19:03 Référence Bourse LCL : A210329O53297 
+Référence de saisie : 20101125101901004203 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,220 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 825 titre(s) 
+Estimation : 1 927,20 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,336 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+25/11/2010 à 10:22:33 Référence Bourse LCL : A210329O53402 
+Référence de saisie : 20101125102230520212 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : ALSTOM Actions - FR0010220475 - ALO  
+Cours* : 32,340 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 113 titre(s) 
+Estimation : 3 727,87 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  32,99 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+25/11/2010 à 10:33 Référence Bourse LCL : A210328O58567 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : GROUPE STERIA SCA - FR0000072910 - RIA 
+ 
+   
+Saisi le : 
+25/11/2010 à 10:34:01 Référence Bourse LCL : A210329O53801 
+Référence de saisie : 20101125103358817328 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : GROUPE STERIA SCA Actions - FR0000072910 - RIA  
+Cours* : 18,360 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 103 titre(s) 
+Estimation : 1 909,62 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  18,54 EUR 
+Date de validité : 30/11/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 

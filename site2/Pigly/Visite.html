@@ -1,0 +1,407 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Document sans nom</title>
+<script type="text/JavaScript">
+<!--
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_initTimelines() { //v4.0
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
+    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
+    var macIE5 = (navigator.platform ? (navigator.platform == "MacPPC") : false) && (navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4);
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(23);
+    document.MM_Time["Visite"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Visite";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0][0] = new String("sprite");
+    document.MM_Time[0][0].slot = 3;
+    if (ns4)
+        document.MM_Time[0][0].obj = document["Layer1"] ? document["Layer1"].document["Image2"] : document["Image2"];
+    else if (ns5)
+        document.MM_Time[0][0].obj = document.getElementById("Image2");
+    else
+        document.MM_Time[0][0].obj = document["Image2"];
+    document.MM_Time[0][0].keyFrames = new Array(1, 92, 132);
+    document.MM_Time[0][0].values = new Array(1);
+    document.MM_Time[0][0].values[0] = new Array("transparent.png","Pigly.GIF","Pigly.GIF");
+    document.MM_Time[0][0].values[0].prop = "src";
+    document.MM_Time[0][1] = new String("sprite");
+    document.MM_Time[0][1].slot = 4;
+    if (ns4)
+        document.MM_Time[0][1].obj = document["Layer2"] ? document["Layer2"].document["Image1"] : document["Image1"];
+    else if (ns5)
+        document.MM_Time[0][1].obj = document.getElementById("Image1");
+    else
+        document.MM_Time[0][1].obj = document["Image1"];
+    document.MM_Time[0][1].keyFrames = new Array(1, 62, 91, 92, 123, 137, 152);
+    document.MM_Time[0][1].values = new Array(1);
+    document.MM_Time[0][1].values[0] = new Array("Visite/Visite1.GIF","Visite/transparent.PNG","Visite/transparent.PNG","Visite/Visite2.GIF","Visite/Visite2.GIF","Visite/Visite2.GIF","Visite/Visite2.GIF");
+    document.MM_Time[0][1].values[0].prop = "src";
+    document.MM_Time[0][2] = new String("sprite");
+    document.MM_Time[0][2].slot = 2;
+    if (ns4)
+        document.MM_Time[0][2].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][2].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][2].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][2].keyFrames = new Array(62, 65, 68, 70, 71, 73, 74, 76, 77, 79, 88, 89, 91);
+    document.MM_Time[0][2].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][2].values[0] = new Array("16px", "55px", "92px", "122px", "134px", "144px", "161px", "209px", "256px", "297px", "302px", "302px", "295px", "283px", "267px", "261px", "288px", "333px", "353px", "374px", "398px", "423px", "450px", "475px", "498px", "520px", "539px", "595px", "606px", "613px");
+    else
+        document.MM_Time[0][2].values[0] = new Array(16,55,92,122,134,144,161,209,256,297,302,302,295,283,267,261,288,333,353,374,398,423,450,475,498,520,539,595,606,613);
+    document.MM_Time[0][2].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][2].values[1] = new Array("19px", "149px", "271px", "361px", "389px", "400px", "397px", "405px", "406px", "382px", "372px", "363px", "353px", "351px", "357px", "420px", "438px", "446px", "448px", "449px", "449px", "450px", "450px", "451px", "452px", "453px", "456px", "502px", "512px", "520px");
+    else
+        document.MM_Time[0][2].values[1] = new Array(19,149,271,361,389,400,397,405,406,382,372,363,353,351,357,420,438,446,448,449,449,450,450,451,452,453,456,502,512,520);
+    document.MM_Time[0][2].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][2].values[0].prop2 = "style";
+        document.MM_Time[0][2].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][3] = new String("behavior");
+    document.MM_Time[0][3].frame = 1;
+    document.MM_Time[0][3].value = "MM_timelinePlay('Visite')";
+    document.MM_Time[0][4] = new String("sprite");
+    document.MM_Time[0][4].slot = 2;
+    if (ns4)
+        document.MM_Time[0][4].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][4].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][4].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][4].keyFrames = new Array(1, 61);
+    document.MM_Time[0][4].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][4].values[0] = new Array("16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px", "18px");
+    else
+        document.MM_Time[0][4].values[0] = new Array(16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18);
+    document.MM_Time[0][4].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][4].values[1] = new Array("17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "17px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "16px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px", "15px");
+    else
+        document.MM_Time[0][4].values[1] = new Array(17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,17,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15);
+    document.MM_Time[0][4].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][4].values[0].prop2 = "style";
+        document.MM_Time[0][4].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][5] = new String("sprite");
+    document.MM_Time[0][5].slot = 2;
+    if (ns4)
+        document.MM_Time[0][5].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][5].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][5].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][5].keyFrames = new Array(92, 123, 152);
+    document.MM_Time[0][5].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][5].values[0] = new Array("613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "613px", "616px", "619px", "623px", "626px", "630px", "633px", "637px", "641px", "646px", "650px", "655px", "660px", "665px", "670px", "675px", "681px", "687px", "693px", "699px", "705px", "711px", "717px", "723px", "729px", "735px", "741px", "747px", "753px", "759px");
+    else
+        document.MM_Time[0][5].values[0] = new Array(613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,613,616,619,623,626,630,633,637,641,646,650,655,660,665,670,675,681,687,693,699,705,711,717,723,729,735,741,747,753,759);
+    document.MM_Time[0][5].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][5].values[1] = new Array("520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "520px", "521px", "522px", "524px", "525px", "527px", "528px", "530px", "531px", "533px", "535px", "537px", "539px", "541px", "543px", "545px", "547px", "549px", "552px", "554px", "557px", "559px", "561px", "564px", "566px", "568px", "571px", "573px", "576px", "578px");
+    else
+        document.MM_Time[0][5].values[1] = new Array(520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,520,521,522,524,525,527,528,530,531,533,535,537,539,541,543,545,547,549,552,554,557,559,561,564,566,568,571,573,576,578);
+    document.MM_Time[0][5].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][5].values[0].prop2 = "style";
+        document.MM_Time[0][5].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][6] = new String("behavior");
+    document.MM_Time[0][6].frame = 62;
+    document.MM_Time[0][6].value = "MM_swapImage('Image1','','Visite/transparent.PNG',1)";
+    document.MM_Time[0][7] = new String("behavior");
+    document.MM_Time[0][7].frame = 92;
+    document.MM_Time[0][7].value = "MM_swapImage('Image2','','Pigly.GIF',1);MM_swapImage('Image1','','Visite/Visite2.GIF',1)";
+    document.MM_Time[0][8] = new String("sprite");
+    document.MM_Time[0][8].slot = 4;
+    if (ns4)
+        document.MM_Time[0][8].obj = document["Layer2"] ? document["Layer2"].document["Image1"] : document["Image1"];
+    else if (ns5)
+        document.MM_Time[0][8].obj = document.getElementById("Image1");
+    else
+        document.MM_Time[0][8].obj = document["Image1"];
+    document.MM_Time[0][8].keyFrames = new Array(153, 180);
+    document.MM_Time[0][8].values = new Array(1);
+    document.MM_Time[0][8].values[0] = new Array("Visite/Visite3.GIF","Visite/Visite3.GIF");
+    document.MM_Time[0][8].values[0].prop = "src";
+    document.MM_Time[0][9] = new String("behavior");
+    document.MM_Time[0][9].frame = 153;
+    document.MM_Time[0][9].value = "MM_swapImage('Image1','','Visite/Visite3.GIF',1)";
+    document.MM_Time[0][10] = new String("sprite");
+    document.MM_Time[0][10].slot = 2;
+    if (ns4)
+        document.MM_Time[0][10].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][10].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][10].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][10].keyFrames = new Array(153, 180);
+    document.MM_Time[0][10].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][10].values[0] = new Array("759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px", "759px");
+    else
+        document.MM_Time[0][10].values[0] = new Array(759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759,759);
+    document.MM_Time[0][10].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][10].values[1] = new Array("578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px", "578px");
+    else
+        document.MM_Time[0][10].values[1] = new Array(578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578,578);
+    document.MM_Time[0][10].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][10].values[0].prop2 = "style";
+        document.MM_Time[0][10].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][11] = new String("sprite");
+    document.MM_Time[0][11].slot = 2;
+    if (ns4)
+        document.MM_Time[0][11].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][11].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][11].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][11].keyFrames = new Array(181, 200);
+    document.MM_Time[0][11].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][11].values[0] = new Array("759px", "748px", "737px", "726px", "715px", "703px", "692px", "681px", "670px", "659px", "648px", "637px", "626px", "615px", "604px", "592px", "581px", "570px", "559px", "548px");
+    else
+        document.MM_Time[0][11].values[0] = new Array(759,748,737,726,715,703,692,681,670,659,648,637,626,615,604,592,581,570,559,548);
+    document.MM_Time[0][11].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][11].values[1] = new Array("578px", "576px", "575px", "573px", "572px", "570px", "569px", "567px", "566px", "564px", "563px", "561px", "560px", "558px", "557px", "555px", "554px", "552px", "551px", "549px");
+    else
+        document.MM_Time[0][11].values[1] = new Array(578,576,575,573,572,570,569,567,566,564,563,561,560,558,557,555,554,552,551,549);
+    document.MM_Time[0][11].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][11].values[0].prop2 = "style";
+        document.MM_Time[0][11].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][12] = new String("sprite");
+    document.MM_Time[0][12].slot = 4;
+    if (ns4)
+        document.MM_Time[0][12].obj = document["Layer2"] ? document["Layer2"].document["Image1"] : document["Image1"];
+    else if (ns5)
+        document.MM_Time[0][12].obj = document.getElementById("Image1");
+    else
+        document.MM_Time[0][12].obj = document["Image1"];
+    document.MM_Time[0][12].keyFrames = new Array(181, 200);
+    document.MM_Time[0][12].values = new Array(1);
+    document.MM_Time[0][12].values[0] = new Array("Visite/transparent.PNG","Visite/transparent.PNG");
+    document.MM_Time[0][12].values[0].prop = "src";
+    document.MM_Time[0][13] = new String("behavior");
+    document.MM_Time[0][13].frame = 181;
+    document.MM_Time[0][13].value = "MM_swapImage('Image1','','Visite/transparent.PNG',1)";
+    document.MM_Time[0][14] = new String("sprite");
+    document.MM_Time[0][14].slot = 1;
+    if (ns4)
+        document.MM_Time[0][14].obj = document["Layer1"];
+    else if (ns5)
+        document.MM_Time[0][14].obj = document.getElementById("Layer1");
+    else
+        document.MM_Time[0][14].obj = document.all ? document.all["Layer1"] : null;
+    document.MM_Time[0][14].keyFrames = new Array(230, 296);
+    document.MM_Time[0][14].values = new Array(0);
+    document.MM_Time[0][15] = new String("sprite");
+    document.MM_Time[0][15].slot = 3;
+    if (ns4)
+        document.MM_Time[0][15].obj = document["Layer1"] ? document["Layer1"].document["Image2"] : document["Image2"];
+    else if (ns5)
+        document.MM_Time[0][15].obj = document.getElementById("Image2");
+    else
+        document.MM_Time[0][15].obj = document["Image2"];
+    document.MM_Time[0][15].keyFrames = new Array(230, 296);
+    document.MM_Time[0][15].values = new Array(1);
+    document.MM_Time[0][15].values[0] = new Array("Entree.GIF","Entree.GIF");
+    document.MM_Time[0][15].values[0].prop = "src";
+    document.MM_Time[0][16] = new String("behavior");
+    document.MM_Time[0][16].frame = 230;
+    document.MM_Time[0][16].value = "MM_swapImage('Image2','','Entree.GIF',1);MM_swapImage('Image1','','Visite/transparent.PNG',1)";
+    document.MM_Time[0][17] = new String("sprite");
+    document.MM_Time[0][17].slot = 4;
+    if (ns4)
+        document.MM_Time[0][17].obj = document["Layer2"] ? document["Layer2"].document["Image1"] : document["Image1"];
+    else if (ns5)
+        document.MM_Time[0][17].obj = document.getElementById("Image1");
+    else
+        document.MM_Time[0][17].obj = document["Image1"];
+    document.MM_Time[0][17].keyFrames = new Array(230, 289);
+    document.MM_Time[0][17].values = new Array(1);
+    document.MM_Time[0][17].values[0] = new Array("Visite/transparent.PNG","Visite/transparent.PNG");
+    document.MM_Time[0][17].values[0].prop = "src";
+    document.MM_Time[0][18] = new String("sprite");
+    document.MM_Time[0][18].slot = 2;
+    if (ns4)
+        document.MM_Time[0][18].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][18].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][18].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][18].keyFrames = new Array(230, 231, 232, 233, 234, 235, 236, 237, 236, 237, 238, 239, 242, 243, 244, 246, 247, 248, 247, 248, 249, 250, 251, 252, 253, 252, 255, 256, 257, 258, 259, 260, 261, 260, 261, 262, 263, 264, 265, 267, 268, 270, 271, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289);
+    document.MM_Time[0][18].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][18].values[0] = new Array("715px", "637px", "552px", "541px", "533px", "544px", "553px", "355px", "356px", "355px", "356px", "355px", "351px", "302px", "304px", "306px", "312px", "328px", "369px", "369px", "369px", "369px", "368px", "368px", "368px", "368px", "368px", "368px", "368px", "368px", "368px", "368px", "368px", "369px", "368px", "368px", "368px", "369px", "368px", "368px", "369px", "368px", "369px", "368px", "367px", "363px", "307px", "294px", "283px", "196px", "175px", "141px", "126px", "104px", "101px", "119px", "124px", "109px", "105px", "140px");
+    else
+        document.MM_Time[0][18].values[0] = new Array(715,637,552,541,533,544,553,355,356,355,356,355,351,302,304,306,312,328,369,369,369,369,368,368,368,368,368,368,368,368,368,368,368,369,368,368,368,369,368,368,369,368,369,368,367,363,307,294,283,196,175,141,126,104,101,119,124,109,105,140);
+    document.MM_Time[0][18].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][18].values[1] = new Array("573px", "575px", "556px", "533px", "495px", "481px", "476px", "455px", "454px", "455px", "454px", "455px", "458px", "505px", "538px", "543px", "547px", "558px", "206px", "207px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "208px", "207px", "208px", "208px", "208px", "207px", "208px", "208px", "207px", "208px", "207px", "208px", "211px", "217px", "317px", "328px", "338px", "359px", "392px", "415px", "415px", "389px", "350px", "347px", "377px", "381px", "344px", "329px");
+    else
+        document.MM_Time[0][18].values[1] = new Array(573,575,556,533,495,481,476,455,454,455,454,455,458,505,538,543,547,558,206,207,208,208,208,208,208,208,208,208,208,208,208,208,208,207,208,208,208,207,208,208,207,208,207,208,211,217,317,328,338,359,392,415,415,389,350,347,377,381,344,329);
+    document.MM_Time[0][18].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][18].values[0].prop2 = "style";
+        document.MM_Time[0][18].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][19] = new String("sprite");
+    document.MM_Time[0][19].slot = 2;
+    if (ns4)
+        document.MM_Time[0][19].obj = document["Layer2"];
+    else if (ns5)
+        document.MM_Time[0][19].obj = document.getElementById("Layer2");
+    else
+        document.MM_Time[0][19].obj = document.all ? document.all["Layer2"] : null;
+    document.MM_Time[0][19].keyFrames = new Array(201, 229);
+    document.MM_Time[0][19].values = new Array(2);
+    if (ns5 || macIE5)
+        document.MM_Time[0][19].values[0] = new Array("592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px", "592px");
+    else
+        document.MM_Time[0][19].values[0] = new Array(592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592,592);
+    document.MM_Time[0][19].values[0].prop = "left";
+    if (ns5 || macIE5)
+        document.MM_Time[0][19].values[1] = new Array("555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px", "555px");
+    else
+        document.MM_Time[0][19].values[1] = new Array(555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555,555);
+    document.MM_Time[0][19].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][19].values[0].prop2 = "style";
+        document.MM_Time[0][19].values[1].prop2 = "style";
+    }
+    document.MM_Time[0][20] = new String("sprite");
+    document.MM_Time[0][20].slot = 4;
+    if (ns4)
+        document.MM_Time[0][20].obj = document["Layer2"] ? document["Layer2"].document["Image1"] : document["Image1"];
+    else if (ns5)
+        document.MM_Time[0][20].obj = document.getElementById("Image1");
+    else
+        document.MM_Time[0][20].obj = document["Image1"];
+    document.MM_Time[0][20].keyFrames = new Array(201, 229);
+    document.MM_Time[0][20].values = new Array(1);
+    document.MM_Time[0][20].values[0] = new Array("Visite/Visite4.GIF","Visite/Visite4.GIF");
+    document.MM_Time[0][20].values[0].prop = "src";
+    document.MM_Time[0][21] = new String("sprite");
+    document.MM_Time[0][21].slot = 3;
+    if (ns4)
+        document.MM_Time[0][21].obj = document["Layer1"] ? document["Layer1"].document["Image2"] : document["Image2"];
+    else if (ns5)
+        document.MM_Time[0][21].obj = document.getElementById("Image2");
+    else
+        document.MM_Time[0][21].obj = document["Image2"];
+    document.MM_Time[0][21].keyFrames = new Array(133, 229);
+    document.MM_Time[0][21].values = new Array(1);
+    document.MM_Time[0][21].values[0] = new Array("Pigly.GIF","Pigly.GIF");
+    document.MM_Time[0][21].values[0].prop = "src";
+    document.MM_Time[0][22] = new String("behavior");
+    document.MM_Time[0][22].frame = 201;
+    document.MM_Time[0][22].value = "MM_swapImage('Image1','','Visite/Visite4.GIF',1)";
+    document.MM_Time[0].lastFrame = 296;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+#Layer1 {
+	position:absolute;
+	width:1024px;
+	height:769px;
+	z-index:1;
+	left: 47px;
+	top: 51px;
+	border:dashed #0033FF;
+}
+#Layer2 {
+	position:absolute;
+	width:500px;
+	height:200px;
+	z-index:2;
+	left: 511px;
+	top: 249px;
+	border:dashed #0033FF;
+}
+-->
+</style>
+</head>
+
+<body onLoad="MM_timelinePlay('Visite');MM_preloadImages('Visite/transparent.PNG','Pigly.GIF','Visite/Visite2.GIF','Visite/Visite3.GIF','Entree.GIF','Visite/Visite4.GIF')">
+<div id="Layer1"><img src="transparent.png" name="Image2" width="1024" height="769"></div>
+<div id="Layer2" style="left: 16px; top: 17px;">
+<img src="Visite/Visite1.GIF" name="Image1" width="500" height="200"></div>
+</body>
+</html>

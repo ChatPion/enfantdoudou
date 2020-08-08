@@ -1,0 +1,271 @@
+<html>
+    <head>
+       <meta http-equiv="Content-Script-Type" content="text/javascript">
+       <meta http-equiv="Content-Style-Type" content="text/css">
+       <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+       <script type="text/javascript" language="JavaScript" 
+       src="deplacement.js">
+	   </script>
+	   <script type="text/javascript" language="JavaScript" 
+       src="script.js">
+	   var select
+	   </script>
+	   <title>Le site des doudous</title>
+       <script type="text/javascript" language="JavaScript" 
+       src="chargement.js"></script>
+	   <script type="text/javascript" language="javascript"
+	   src="techni.js"></script>
+       <LINK rel=stylesheet type=text/css 
+       href="div.css">
+       <LINK rel=stylesheet type=text/css
+	   href="Coinkoin.css">
+	   <LINK rel=stylesheet type=text/css
+	   href="autre.css">
+	   
+       <script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+       </script>
+    </head>
+  <body onLoad="MM_preloadImages('homeop.PNG','Out.PNG','Plandef.PNG')" onKeyDown="javascript:move(event);" onKeyUp="javascript:specialieu();"> 
+  <!-- deplacement-->
+ <div id="a1000">
+  <div id="a1001"><img name="img1"src="man.PNG" width="73" height="53"></div>
+  <div id="a1002"><img name="img2"src="invisible.PNG" width="73" height="53"></div>
+  <div id="a1003"><img name="img3"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1004"><img name="img4"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1005"><img name="img5"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1006"><img name="img6"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1007"><img name="img7"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1008"><img name="img8"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1009"><img name="img9"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1010"><img name="img10"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1011"><img name="img11"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1012"><img name="img12"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1013"><img name="img13"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1014"><img name="img14"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1015"><img name="img15"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1016"><img name="img16"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1017"><img name="img17"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1018"><img name="img18"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1019"><img name="img19"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1020"><img name="img20"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1021"><img name="img21"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1022"><img name="img22"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1023"><img name="img23"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1024"><img name="img24"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1025"><img name="img25"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1026"><img name="img26"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1027"><img name="img27"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1028"><img name="img28"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1029"><img name="img29"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1030"><img name="img30"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1031"><img name="img31"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1032"><img name="img32"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1033"><img name="img33"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1034"><img name="img34"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1035"><img name="img35"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1036"><img name="img36"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1037"><img name="img37"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1038"><img name="img38"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1039"><img name="img39"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1040"><img name="img40"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1041"><img name="img41"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1042"><img name="img42"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1043"><img name="img43"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1044"><img name="img44"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1045"><img name="img45"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1046"><img name="img46"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1047"><img name="img47"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1048"><img name="img48"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1049"><img name="img49"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1050"><img name="img50"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1051"><img name="img51"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1052"><img name="img52"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1053"><img name="img53"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1054"><img name="img54"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1055"><img name="img55"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1056"><img name="img56"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1057"><img name="img57"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1058"><img name="img58"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1059"><img name="img59"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1060"><img name="img60"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1061"><img name="img61"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1062"><img name="img62"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1063"><img name="img63"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1064"><img name="img64"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1065"><img name="img65"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1066"><img name="img66"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1067"><img name="img67"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1068"><img name="img68"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1069"><img name="img69"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1070"><img name="img70"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1071"><img name="img71"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1072"><img name="img72"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1073"><img name="img73"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1074"><img name="img74"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1075"><img name="img75"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1076"><img name="img76"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1077"><img name="img77"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1078"><img name="img78"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1079"><img name="img79"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1080"><img name="img80"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1081"><img name="img81"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1082"><img name="img82"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1083"><img name="img83"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1084"><img name="img84"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1085"><img name="img85"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1086"><img name="img86"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1087"><img name="img87"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1088"><img name="img88"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1089"><img name="img89"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1090"><img name="img90"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1091"><img name="img91"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1092"><img name="img92"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1093"><img name="img93"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1094"><img name="img94"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1095"><img name="img95"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1096"><img name="img96"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1097"><img name="img97"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1098"><img name="img98"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1099"><img name="img99"src="invisible.PNG" width="73" height="53"></div>  
+  <div id="a1100"><img name="img100"src="invisible.PNG" width="73" height="53"></div>      
+ </div>
+	   <div id="select_lieu">
+	     <form name="direction">	       
+	       &nbsp; &nbsp; Direction:
+	       <input type="text" name="text_lieu">	       
+	       <img src="invisible.PNG" name="show_lieu" id="show_img" border="1px"><br>
+	       &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+		   <button type="button" id="button1" onClick="changelieu()"> <img src="runman.PNG"> </button>
+ 	     </form>
+  </div>
+
+	 
+<!-- navigation-->	 
+	 <div id="descri">
+	   <p>
+	     <input name="textnom" type="text" size="18" id="namme">
+	     <img src="avatar.PNG" width="100" height="100" border="2px dashed #6600FF" id="imgavatar"></p>
+	   <p><br>
+	 Argent:
+	   <input name="textfric" type="text" size="10" value="0" id="fric" onFocus="document.getElementById('fric').value='INTERDIT!!!'" onBlur="javascript:document.getElementById('fric').value=thefric;">
+</p>
+	   <p>Popularit&eacute;:<input name="textpopu" type="text" size="9" value="0" id="popularity" onFocus="document.getElementById('popularity').value='INTERDIT!!!'" onBlur="javascript:document.getElementById('popularity').value=populari;"></p>
+  </div>
+	 <table border="0" cellpadding="0" cellspacing="0" id="table">
+       <tr>
+         <td><a href="javascript:;" target="_top" onClick="MM_nbGroup('down','group1','Rentrer','',1)" onMouseOver="MM_nbGroup('over','Rentrer','homeop.PNG','',1)" onMouseOut="MM_nbGroup('out')"><img src="home.PNG" alt="" name="Rentrer" width="70" height="70" border="0" onload=""></a></td>
+       </tr>
+       <tr>
+         <td><a href="javascript:;" target="_top" onClick="MM_nbGroup('down','group1','go','',1)" onMouseOver="MM_nbGroup('over','go','Out.PNG','',1)" onMouseOut="MM_nbGroup('out')"><img name="go" src="Outcl.PNG" border="0" alt="" onLoad=""></a></td>
+       </tr>
+       <tr>
+         <td><a href="javascript:map();" target="_top" onClick="MM_nbGroup('down','group1','carte','',1)" onMouseOver="MM_nbGroup('over','carte','Plandef.PNG','',1)" onMouseOut="MM_nbGroup('out')"><img name="carte" src="Plan.PNG" border="0" alt="" onLoad=""></a></td>
+       </tr>
+	 </table>
+  <!-- 
+ _________________________________________________________________________________________________________________________________
+|                                                     Reserve de map  & div                                                       |
+|_________________________________________________________________________________________________________________________________|
+-->
+<div id="Coinkoin"><img src="Coinkoin.PNG" border="0" usemap="#Coinkoin">
+<map name="Coinkoin">
+<area shape="poly" coords="301,331,285,336,277,362,282,382,298,389,307,379,307,355,309,337" href="javascript:select=1;" alt="" onClick="javascript:changeimg('Coinkoin','Coinkoin_Entree');" nohref="true">
+<area shape="poly" coords="483,306,472,300,464,286,475,266,491,266,507,273,512,287,506,301" href="#">
+</map>
+</div>
+
+<div id="Coinkoin_Entree">
+<img src="Coinkoin/Entree.PNG" border="0" usemap="#Coinkoin_Entree"></div>
+<map name="Coinkoin_Entree">
+<area shape="rect" coords="86,137,217,311" href="javascript:changeimg('Coinkoin_Entree','Coinkoin');" onClick="javascript:select=0;">
+<area shape="poly" coords="526,279,524,356,541,369,565,375,584,373,610,369,623,358,624,283,574,195,573,145,572,194" href="#">
+</map>
+<!--
+___________________________________________________________________________________________________________________________________
+-->
+<!--accueil-->
+<div id="login"><form name="log">&nbsp;&nbsp; <img src="Connection.PNG">
+  <p>pseudo:
+    <input name="logine" type="text" size="25">
+  </p>
+  <p>mot de passe: <input name="password" type="text" size="20">
+    <sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:document.getElementById('login').style.display='none';document.getElementById('inscri').style.display='inline';"> Inscription!</a></sup></p>
+  <p><center><input name="connect" type="button" value="Go!" onClick="enter()"></center></p>
+</form>
+</div>
+
+<!--
+__________________________________________________________________________________________________________________________________
+ inscription
+-->
+<div id="inscri">
+<form name="incriptionne">
+<br>
+<H1 align="center">Es-tu...</H1>
+<p align="center">
+<select name="ins">
+<option value="0">un garçon
+</option>
+<option value="1">une fille
+</option>
+</select>
+</p>
+<br>
+<button type="button" style="position:absolute; left: 144px; top: 154px;" onClick="incription(this.form)"><img src="Teleport.GIF"></button>
+</form>
+</div>
+
+<div id="insmal">
+   
+</div>
+</body>
+</html>

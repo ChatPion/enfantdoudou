@@ -1,0 +1,134 @@
+Opérations 7 jours Opérations 45 jours 
+
+ 
+Télécharger les écritures 
+Solde au 1 décembre 2010        201,70  
+Date   Vos opérations   Débit   Crédit   
+30/11/2010    611 DEXIA ACHAT 3011 2,893000  1 776,76     
+30/11/2010    38 BNP PARIBAS ACT.A ACHAT 3011  1 789,38     
+30/11/2010    113 ALSTOM VENTE 3011 31,740000     3 572,42  
+26/11/2010    6 BNP PARIBAS ACT.A ACHAT 2611  300,75     
+25/11/2010    825 NICOX ACHAT 2511 2,232000  1 851,06     
+25/11/2010    37 BNP PARIBAS ACT.A ACHAT 2511  1 831,02     
+25/11/2010    57 ALSTOM ACHAT 2511 32,330000  1 851,96     
+25/11/2010    103 GROUPE STERIA SCA VENTE     1 865,45  
+25/11/2010    1026 NATIXIS VENTE 2511     3 703,00  
+25/11/2010    118 NICOX VENTE 2511 2,273000     258,61  
+     
+Solde    201,70  
+ 
+   
+Saisi le : 
+02/12/2010 à 08:59:54 Référence Bourse LCL : A210336O51733 
+Référence de saisie : 20101202085951505729 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : DEXIA Actions - BE0003796134 - DEXB  
+Cours* : 2,886 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 611 titre(s) 
+Estimation : 1 826,89 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,99 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le : 
+02/12/2010 à 09:02:55 Référence Bourse LCL : A210336O51800 
+Référence de saisie : 20101202090252702759 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 47,040 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 38 titre(s) 
+Estimation : 1 823,24 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  47,98 EUR 
+Date de validité : 02/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+
+
+
+      
+Saisi le : 
+02/12/2010 à 09:06:09 Référence Bourse LCL : A210336O51935 
+Référence de saisie : 20101202090606711776 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : NICOX Actions - FR0000074130 - COX  
+Cours* : 2,200 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 707 titre(s) 
+Estimation : 1 624,69 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  2,298 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+Saisi le :
+02/12/2010 à 10:52 Référence Bourse LCL : A210336O51800 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : BNP PARIBAS ACTIONS A - FR0000131104 - BNP 
+      
+Saisi le : 
+02/12/2010 à 10:59:12 Référence Bourse LCL : A210336O56991 
+Référence de saisie : 20101202105909430377 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 47,520 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 81 titre(s) 
+Estimation : 3 862,08 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  47,68 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
+   
+Saisi le :
+02/12/2010 à 11:05 Référence Bourse LCL : A210336O56991 
+Référence de saisie :  
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C Compte de dépôts MADEMOISELLE XUNYANG ZHU  
+Valeur : BNP PARIBAS ACTIONS A - FR0000131104 - BNP 
+ 
+
+
+
+      
+Saisi le : 
+02/12/2010 à 11:08:14 Référence Bourse LCL : A210336O57405 
+Référence de saisie : 20101202110811930510 
+Indicatif - N° de compte Nature Titulaire 
+00682 - 047498C  Compte de dépôts  MADEMOISELLE XUNYANG ZHU   
+Valeur : BNP PARIBAS ACTIONS A Actions - FR0000131104 - BNP  
+Cours* : 47,545 Euros  
+Sens : Vente  
+Réglement : Comptant  
+Place : Meilleure exécution sans internalisation  
+
+Nombre de titres : 81 titre(s) 
+Estimation : 3 870,18 Euros 
+Modalité : A cours Limite  
+Au cours minimum de :  47,78 EUR 
+Date de validité : 31/12/2010  
+Origine de l'ordre : Ordre passé par le client 
+ 
